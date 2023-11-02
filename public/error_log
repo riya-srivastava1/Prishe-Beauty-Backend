@@ -1,0 +1,209 @@
+[25-Aug-2023 11:10:10 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:10 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php(45): {closure}('58fab8461e2cef2...', '/home/amazonpro...')
+#1 /home/amazonpro/public_html/prishebeauty/vendor/autoload.php(25): ComposerAutoloaderInit556abea635f94b8542794e0cf29faf9b::getLoader()
+#2 /home/amazonpro/public_html/prishebeauty/public/index.php(34): require('/home/amazonpro...')
+#3 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:22 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:22 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php(45): {closure}('58fab8461e2cef2...', '/home/amazonpro...')
+#1 /home/amazonpro/public_html/prishebeauty/vendor/autoload.php(25): ComposerAutoloaderInit556abea635f94b8542794e0cf29faf9b::getLoader()
+#2 /home/amazonpro/public_html/prishebeauty/public/index.php(34): require('/home/amazonpro...')
+#3 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:26 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:26 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php(45): {closure}('58fab8461e2cef2...', '/home/amazonpro...')
+#1 /home/amazonpro/public_html/prishebeauty/vendor/autoload.php(25): ComposerAutoloaderInit556abea635f94b8542794e0cf29faf9b::getLoader()
+#2 /home/amazonpro/public_html/prishebeauty/public/index.php(34): require('/home/amazonpro...')
+#3 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:40 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:40 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:10:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/vendor/composer/../../app/helpers/customHelpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php(45): {closure}('58fab8461e2cef2...', '/home/amazonpro...')
+#1 /home/amazonpro/public_html/prishebeauty/vendor/autoload.php(25): ComposerAutoloaderInit556abea635f94b8542794e0cf29faf9b::getLoader()
+#2 /home/amazonpro/public_html/prishebeauty/public/index.php(34): require('/home/amazonpro...')
+#3 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:30:18 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:18 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:28 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:28 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:42 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:42 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:30:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:44 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:44 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:50 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:50 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:56 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:56 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:31:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:33:06 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:33:06 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:33:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:26 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:26 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:29 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:29 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:36 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:36 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:38 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:38 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:40 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:40 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:47 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:47 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:35:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:36:14 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:36:14 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:36:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:36:32 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:36:32 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:36:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:12 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:12 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:15 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:15 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:22 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:22 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:37:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:22 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:22 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:23 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:23 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:23 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:23 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:39:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:40:34 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:40:34 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:40:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:41:49 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:41:49 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:41:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:44:36 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:44:36 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:44:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:44:39 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:44:39 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:44:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:47:19 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:47:19 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:47:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 34
+[25-Aug-2023 11:51:23 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 36
+[25-Aug-2023 11:51:23 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/index.php on line 36
+[25-Aug-2023 11:51:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/index.php on line 36
+[25-Aug-2023 11:57:36 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/pb/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/pb/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:57:36 UTC] PHP Warning:  require(/home/amazonpro/public_html/prishebeauty/pb/vendor/composer/../../app/helpers/customHelpers.php): Failed to open stream: No such file or directory in /home/amazonpro/public_html/prishebeauty/pb/vendor/composer/autoload_real.php on line 41
+[25-Aug-2023 11:57:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amazonpro/public_html/prishebeauty/pb/vendor/composer/../../app/helpers/customHelpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/amazonpro/public_html/prishebeauty/pb/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/amazonpro/public_html/prishebeauty/pb/vendor/composer/autoload_real.php(45): {closure}('58fab8461e2cef2...', '/home/amazonpro...')
+#1 /home/amazonpro/public_html/prishebeauty/pb/vendor/autoload.php(25): ComposerAutoloaderInit556abea635f94b8542794e0cf29faf9b::getLoader()
+#2 /home/amazonpro/public_html/prishebeauty/index.php(35): require('/home/amazonpro...')
+#3 {main}
+  thrown in /home/amazonpro/public_html/prishebeauty/pb/vendor/composer/autoload_real.php on line 41
+[05-Sep-2023 08:31:15 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/amazonpro/public_html/prishebeauty/pb/vendor/composer/platform_check.php on line 24
+[05-Sep-2023 08:31:29 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/amazonpro/public_html/prishebeauty/pb/vendor/composer/platform_check.php on line 24
